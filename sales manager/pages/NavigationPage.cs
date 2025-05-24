@@ -21,7 +21,7 @@ public class NavigationPage
     
 
 
-    //private IWebElement parent => driver.FindElement(By.CssSelector("div#UniversityTypeId.css-b62m3t-container > div.css-13cymwt-control:nth-child(3)"));
+    private IWebElement parent => driver.FindElement(By.CssSelector("div#UniversityTypeId.css-b62m3t-container > div.css-13cymwt-control:nth-child(3)"));
     private IWebElement selectint => driver.FindElement(By.XPath("//div[contains(text(),'International')]"));
     private IWebElement consultant => driver.FindElement(By.CssSelector("div.mb-2.col-sm-12.col-md-3.col-lg-4 > div#consultantId.css-b62m3t-container"));
     private IWebElement selectcon => driver.FindElement(By.XPath("//div[contains(text(),'rahim')]"));
