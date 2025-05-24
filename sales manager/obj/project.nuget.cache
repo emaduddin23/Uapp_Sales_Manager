@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNYz+6POIbQ=",
+  "dgSpecHash": "kO6iWSXxUwk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bluebay IT Limited\\source\\repos\\sales manager\\sales manager\\sales manager.csproj",
+  "projectFilePath": "C:\\Users\\Bluebay IT Limited\\Source\\Repos\\Uapp_Sales_Manager\\sales manager\\sales manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

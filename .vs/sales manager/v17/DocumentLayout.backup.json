@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\pages\\navigationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\navigationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\pages\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\test\\LoginTest.cs",
+              "RelativeDocumentMoniker": "sales manager\\test\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\test\\LoginTest.cs",
+              "RelativeToolTip": "sales manager\\test\\LoginTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:24:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\NavigationPage.cs",
+              "RelativeDocumentMoniker": "sales manager\\pages\\NavigationPage.cs",
+              "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\NavigationPage.cs",
+              "RelativeToolTip": "sales manager\\pages\\NavigationPage.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:13:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\Application.cs",
+              "RelativeDocumentMoniker": "sales manager\\pages\\Application.cs",
+              "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\Application.cs",
+              "RelativeToolTip": "sales manager\\pages\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:12:39.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

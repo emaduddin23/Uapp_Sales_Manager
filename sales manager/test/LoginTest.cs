@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using sales_manager.pages;
 
 
@@ -12,6 +13,8 @@ public class LoginTest
    // private StudentPage StudentPage;
     private Leadstudent leadstudent;
     private Application application;
+    //private readonly WebDriverWait wait;
+
 
     [SetUp]
     public void SetUp()
@@ -39,7 +42,7 @@ public class LoginTest
     {
 
         loginPage.Enteremail("vifotad264@deusa7.com");
-        loginPage.password("ema123");
+        loginPage.password("emad123");
         loginPage.ClickLogin();
         Thread.Sleep(3000);
         navigationPage.clickdrop();

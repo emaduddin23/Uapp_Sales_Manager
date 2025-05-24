@@ -1,20 +1,27 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
+using OpenQA.Selenium.Support.UI;
 
 public class NavigationPage
 {
     private readonly IWebDriver driver;
-   // private readonly Actions actions;
+    private readonly WebDriverWait wait;
+
+    // private readonly Actions actions;
 
     public NavigationPage(IWebDriver driver)
     {
         this.driver = driver;
-       // this.actions = new Actions(driver);
+        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
+        // this.actions = new Actions(driver);
     }
 
     // tap student button
     private IWebElement tappage => driver.FindElement(By.XPath("//span[normalize-space()='Student']"));
-    private IWebElement parent => driver.FindElement(By.CssSelector("div#UniversityTypeId.css-b62m3t-container > div.css-13cymwt-control:nth-child(3)"));
+    
+
+
+    //private IWebElement parent => driver.FindElement(By.CssSelector("div#UniversityTypeId.css-b62m3t-container > div.css-13cymwt-control:nth-child(3)"));
     private IWebElement selectint => driver.FindElement(By.XPath("//div[contains(text(),'International')]"));
     private IWebElement consultant => driver.FindElement(By.CssSelector("div.mb-2.col-sm-12.col-md-3.col-lg-4 > div#consultantId.css-b62m3t-container"));
     private IWebElement selectcon => driver.FindElement(By.XPath("//div[contains(text(),'rahim')]"));
@@ -29,6 +36,17 @@ public class NavigationPage
     //action
     public void clickdrop()
     {
+        //tappage.Click();
+        //parent.Click();
+        //selectint.Click();
+        //consultant.Click();
+        //selectcon.Click();
+        //status.Click();
+        //selectsta.Click();
+        //typname.SendKeys("rasid khan");
+        //clear.Click();
+
+
         tappage.Click();
         Thread.Sleep(3000);
         parent.Click();
@@ -46,9 +64,9 @@ public class NavigationPage
         typname.SendKeys("rasid khan");
         Thread.Sleep(3000);
         clear.Click();
-        //leadstudnet.Click();
-        //application.Click();
-        //scroll1.Click();    
+        ////leadstudnet.Click();
+        ////application.Click();
+        ////scroll1.Click();    
     }
 
 

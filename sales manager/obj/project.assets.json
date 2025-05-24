@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bluebay IT Limited\\source\\repos\\sales manager\\sales manager\\sales manager.csproj",
+      "projectUniqueName": "C:\\Users\\Bluebay IT Limited\\Source\\Repos\\Uapp_Sales_Manager\\sales manager\\sales manager.csproj",
       "projectName": "sales manager",
-      "projectPath": "C:\\Users\\Bluebay IT Limited\\source\\repos\\sales manager\\sales manager\\sales manager.csproj",
+      "projectPath": "C:\\Users\\Bluebay IT Limited\\Source\\Repos\\Uapp_Sales_Manager\\sales manager\\sales manager.csproj",
       "packagesPath": "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bluebay IT Limited\\source\\repos\\sales manager\\sales manager\\obj\\",
+      "outputPath": "C:\\Users\\Bluebay IT Limited\\Source\\Repos\\Uapp_Sales_Manager\\sales manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
