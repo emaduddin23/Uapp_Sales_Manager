@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kO6iWSXxUwk=",
+  "dgSpecHash": "UfPWgBohUWs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bluebay IT Limited\\Source\\Repos\\Uapp_Sales_Manager\\sales manager\\sales manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\Bluebay IT Limited\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

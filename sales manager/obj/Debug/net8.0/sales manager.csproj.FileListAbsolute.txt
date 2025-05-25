@@ -207,3 +207,4 @@ C:\Users\Bluebay IT Limited\Source\Repos\Uapp_Sales_Manager\sales manager\obj\De
 C:\Users\Bluebay IT Limited\Source\Repos\Uapp_Sales_Manager\sales manager\obj\Debug\net8.0\sales manager.pdb
 C:\Users\Bluebay IT Limited\Source\Repos\Uapp_Sales_Manager\sales manager\obj\Debug\net8.0\sales manager.genruntimeconfig.cache
 C:\Users\Bluebay IT Limited\Source\Repos\Uapp_Sales_Manager\sales manager\obj\Debug\net8.0\ref\sales manager.dll
+C:\Users\Bluebay IT Limited\Source\Repos\Uapp_Sales_Manager\sales manager\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll

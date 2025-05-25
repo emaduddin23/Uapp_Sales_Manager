@@ -1,26 +1,25 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
+using SeleniumExtras.WaitHelpers;
 
 public class NavigationPage
 {
     private readonly IWebDriver driver;
     private readonly WebDriverWait wait;
 
-    // private readonly Actions actions;
+    //private readonly Actions actions;
 
     public NavigationPage(IWebDriver driver)
     {
         this.driver = driver;
-        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
+        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(0));
         // this.actions = new Actions(driver);
     }
 
     // tap student button
     private IWebElement tappage => driver.FindElement(By.XPath("//span[normalize-space()='Student']"));
     
-
-
     private IWebElement parent => driver.FindElement(By.CssSelector("div#UniversityTypeId.css-b62m3t-container > div.css-13cymwt-control:nth-child(3)"));
     private IWebElement selectint => driver.FindElement(By.XPath("//div[contains(text(),'International')]"));
     private IWebElement consultant => driver.FindElement(By.CssSelector("div.mb-2.col-sm-12.col-md-3.col-lg-4 > div#consultantId.css-b62m3t-container"));
@@ -36,17 +35,6 @@ public class NavigationPage
     //action
     public void clickdrop()
     {
-        //tappage.Click();
-        //parent.Click();
-        //selectint.Click();
-        //consultant.Click();
-        //selectcon.Click();
-        //status.Click();
-        //selectsta.Click();
-        //typname.SendKeys("rasid khan");
-        //clear.Click();
-
-
         tappage.Click();
         Thread.Sleep(3000);
         parent.Click();
@@ -62,11 +50,36 @@ public class NavigationPage
         selectsta.Click();
         Thread.Sleep(3000);
         typname.SendKeys("rasid khan");
-        Thread.Sleep(3000);
         clear.Click();
-        ////leadstudnet.Click();
-        ////application.Click();
-        ////scroll1.Click();    
+
+        //wait.Until(ExpectedConditions.ElementToBeClickable(tappage)).Click();
+        ////tappage.Click();
+        //wait.Until(ExpectedConditions.ElementToBeClickable(parent)).Click();
+
+        ////parent.Click();
+        //wait.Until(ExpectedConditions.ElementToBeClickable(selectint)).Click(); 
+        ////selectint.Click();
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(consultant)).Click();    
+        ////consultant.Click();
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(selectcon)).Click();
+        ////selectcon.Click();
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(status)).Click();
+        ////status.Click();
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(selectsta)).Click();
+        ////selectsta.Click();
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(typname)).SendKeys("rasid khan");
+        ////typname.SendKeys("rasid khan");
+        ////Thread.Sleep(3000);
+        //wait.Until(ExpectedConditions.ElementToBeClickable(clear)).Click();
+        ////clear.Click();
+        //////leadstudnet.Click();
+        //////application.Click();
+        //////scroll1.Click();    
     }
 
 

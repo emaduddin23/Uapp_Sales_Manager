@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\navigationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\pages\\leadstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\leadstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|c:\\users\\bluebay it limited\\source\\repos\\uapp_sales_manager\\sales manager\\pages\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E5D60B4-7F72-4889-BC7D-D3D19FC0B18A}|sales manager\\sales manager.csproj|solutionrelative:sales manager\\pages\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,8 +30,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\loginpage.cs",
+              "RelativeDocumentMoniker": "sales manager\\pages\\loginpage.cs",
+              "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\loginpage.cs",
+              "RelativeToolTip": "sales manager\\pages\\loginpage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:44:15.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leadstudent.cs",
+              "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\leadstudent.cs",
+              "RelativeDocumentMoniker": "sales manager\\pages\\leadstudent.cs",
+              "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\leadstudent.cs",
+              "RelativeToolTip": "sales manager\\pages\\leadstudent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:20:14.566Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +70,7 @@
               "RelativeDocumentMoniker": "sales manager\\test\\LoginTest.cs",
               "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\test\\LoginTest.cs",
               "RelativeToolTip": "sales manager\\test\\LoginTest.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T10:24:05.029Z",
               "EditorCaption": ""
@@ -45,31 +83,27 @@
               "RelativeDocumentMoniker": "sales manager\\pages\\NavigationPage.cs",
               "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\NavigationPage.cs",
               "RelativeToolTip": "sales manager\\pages\\NavigationPage.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T10:13:02.078Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\Application.cs",
               "RelativeDocumentMoniker": "sales manager\\pages\\Application.cs",
               "ToolTip": "C:\\Users\\Bluebay IT Limited\\source\\repos\\Uapp_Sales_Manager\\sales manager\\pages\\Application.cs",
               "RelativeToolTip": "sales manager\\pages\\Application.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T10:12:39.875Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
